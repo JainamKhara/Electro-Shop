@@ -1,4 +1,4 @@
-# 🛍️ Studio Carbon - Professional E-Commerce Ecosystem
+# 🛍️ Electro Shop - Professional E-Commerce Ecosystem
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Servlet](https://img.shields.io/badge/Servlet-FFCA28?style=for-the-badge&logo=java&logoColor=black)](https://javaee.github.io/servlet-spec/)
@@ -6,7 +6,7 @@
 [![Glassmorphism](https://img.shields.io/badge/UI-Glassmorphism-blueviolet?style=for-the-badge)](https://glassmorphism.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 
-**Studio Carbon** is a comprehensive, enterprise-grade e-commerce solution designed with a focus on high performance and modern aesthetics. Built using the Java EE architecture, it implements a robust MVC (Model-View-Controller) pattern to deliver a scalable shopping platform for electronics.
+**Electro Shop** is a comprehensive, enterprise-grade e-commerce solution designed with a focus on high performance and modern aesthetics. Built using the Java EE architecture, it implements a robust MVC (Model-View-Controller) pattern to deliver a scalable shopping platform for electronics.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## 🌟 Project Overview
 
-Studio Carbon isn't just an e-commerce site; it's a demonstration of modern Java web development. It leverages the power of **JSP (JavaServer Pages)** for dynamic content rendering and **Java Servlets** for robust backend logic. The UI is crafted using a unique **Industrial Glassmorphic Design**, providing a frosted-glass effect that feels premium and state-of-the-art.
+Electro Shop isn't just an e-commerce site; it's a demonstration of modern Java web development. It leverages the power of **JSP (JavaServer Pages)** for dynamic content rendering and **Java Servlets** for robust backend logic. The UI is crafted using a unique **Industrial Glassmorphic Design**, providing a frosted-glass effect that feels premium and state-of-the-art.
 
 ---
 
